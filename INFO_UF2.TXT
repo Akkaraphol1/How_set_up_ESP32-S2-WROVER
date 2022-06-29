@@ -1,0 +1,4 @@
+TinyUF2 Bootloader 0.6.2 - tinyusb (0.10.1-109-g9b3ec69b)
+Model: Adafruit Metro ESP32-S2
+Board-ID: ESP32S2-Metro-revC
+Date: Dec  8 2021
